@@ -1,0 +1,74 @@
+Raghav Pal Jenkins tutorial = https://www.youtube.com/watch?v=89yWXXIOisk&list=PLhW3qG5bs-L_ZCOA4zNPSoGbnVQ-rp_dG
+
+TUtorial 
+
+Schedule
+The timeframes are only estimates and may vary according to how the class is progressing
+
+Section 1 - Introduction to Collections in Java (10 minutes)
+
+Computational Time and Space Complexity
+Arrays
+Section 1 Quiz (5 minutes)
+
+Section 2 – Lists (30 minutes)
+
+Lists
+ArrayList
+Iteration
+CopyOnWriteArrayList
+LinkedList
+Section 2 Quiz (5 minutes)
+
+Section 3 – Sorting (25 minutes)
+
+Sorting lists
+Section 3 Quiz (5 minutes)
+
+Section 4 – Sets (15 minutes)
+
+Sets
+TreeSet
+ConcurrentSkipListSet
+CopyOnWriteArraySet
+Section 4 Quiz (5 minutes)
+
+Section 5 – Hashing (15 minutes)
+
+Hashing
+HashSet
+ConcurrentHashMap.newKeySet()
+Section 5 Quiz (5 minutes)
+
+Section 6 – Maps (45 minutes)
+
+Maps
+HashMap
+ConcurrentHashMap
+TreeMap
+ConcurrentSkipListMap
+LinkedHashMap and LinkedHashSet
+Highly Specialized Collections: EnumSet, EnumMap, IdentityHashMap, Properties, WeakHashMap
+Section 6 Quiz (5 minutes)
+
+Section 7 - Queues and Deques (25 minutes)
+
+Queues and Deques
+ConcurrentLinkedQueue and ConcurrentLinkedDeque
+ArrayDeque
+BlockingQueues
+LinkedBlockingQueue and LinkedBlockingDeque
+ArrayBlockingQueue
+Highly specialized queues: DelayQueue, SynchronousQueue, LinkedTransferQueue
+PriorityQueue and PriorityBlockingQueue
+Section 7 Quiz (5 minutes)
+
+Section 8 - Collection Facades (15 minutes)
+
+java.util.Collections
+java.util.Arrays
+Section 8 Quiz (5 minutes)
+
+Section 9 – Wrap-up (15 minutes)
+
+Further questions
